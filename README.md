@@ -1,0 +1,2 @@
+# Chat-application
+The main motive behind this application is to make it easy for the students to interact with Seniors and faculty members. This Application can aid colleges and universities in promoting more formal and informal faculty-student out-of-classroom interaction, thereby increasing the overall quality of the undergraduate student experience .It will give the facility to chat and share the important documents
